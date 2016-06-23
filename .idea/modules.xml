@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidWorkspace.iml" filepath="$PROJECT_DIR$/AndroidWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interaction/interaction.iml" filepath="$PROJECT_DIR$/interaction/interaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peridev/peridev.iml" filepath="$PROJECT_DIR$/peridev/peridev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplescreens/simplescreens.iml" filepath="$PROJECT_DIR$/simplescreens/simplescreens.iml" />
+    </modules>
+  </component>
+</project>

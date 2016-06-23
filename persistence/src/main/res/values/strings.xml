@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Persistence</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="title_activity_todo">TodoActivity</string>
+    <string name="title_activity_settings_preference">SettingsPreferenceActivity</string>
+    <!-- preference -->
+    <string name="title_first_section">First Section</string>
+    <string name="title_second_section">Second Section</string>
+    <string name="title_checkbox_preference">CheckBox Preference</string>
+    <string name="title_edittext_preference">EditText Preference</string>
+    <string name="title_list_preference">List Preference</string>
+    <string name="title_preference">Custom Intent</string>
+    <string name="summary_editext_preference">This is a preference demo</string>
+    
+    <string-array name="entries_list_preference">
+        <item>Alipapa</item>
+        <item>Tencent</item>
+        <item>Baidu</item>
+        <item>Microsoft</item>
+        <item>Apple</item>
+    </string-array>
+    <string-array name="entryValues_list_preference">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <!-- provider -->
+    <string name="provider_label">provider</string>
+</resources>

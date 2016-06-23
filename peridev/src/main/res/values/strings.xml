@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_font_content">This is a sans demo</string>
+    <string name="text_custom_font">Custom Font</string>
+
+    <string name="submit">Submit</string>
+    <string name="title_activity_card_layout">CardLayoutActivity</string>
+    <!-- card flip strings -->
+    <string name="card_back_title">Angry Red Android</string>
+    <string name="card_back_description"><![CDATA[Lorem ipsum dolor sit]]></string>
+    <!-- card flip image -->
+    <string name="description_image_1">Image 1</string>
+    <string name="title_activity_card_flip">CardFlipActivity</string>
+    <!-- card flip action -->
+    <string name="action_info">Action Info</string>
+    <string name="action_photo">Action Photo</string>
+    <string name="title_activity_crossfade">CrossfadeActivity</string>
+    <!-- cross fade strings -->
+    <string name="content"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et magna ut erat elementum cursus in quis ipsum. Nam faucibus ultrices eros, vel tempor leo semper sit amet. Duis magna quam, congue vitae interdum nec, condimentum ut lectus. Sed commodo venenatis eros a dignissim. Nunc adipiscing turpis nec magna venenatis at ultricies ipsum bibendum. Sed volutpat urna quis nisi vulputate egestas. Etiam eu dui a enim lacinia dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n\nPhasellus orci mi, eleifend nec congue id, volutpat at neque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer semper velit vel leo rutrum sed fermentum elit porta.]]>
+</string>
+    <!-- cross fade menu -->
+    <string name="OK">OK</string>
+    <string name="title_activity_layout_changes">LayoutChangesActivity</string>
+    
+    <!-- layout changes strings -->
+    <string name="message_empty_layout_changes">just do it</string>
+    <string name="action_remove_item">Remove Item</string>
+</resources>

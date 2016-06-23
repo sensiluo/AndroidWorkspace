@@ -1,0 +1,1 @@
+include ':app', ':peridev', ':simplescreens', ':customview', ':interaction', ':navigation', ':network', ':persistence', ':fragment', ':sensors', ':service'

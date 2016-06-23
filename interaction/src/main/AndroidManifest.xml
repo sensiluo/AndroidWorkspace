@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.luo.interaction" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppThemeNoActionBar" >
+
+        <!-- <activity -->
+        <!-- android:name=".activities.MainActivity" -->
+        <!-- android:label="@string/app_name" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <activity
+            android:name=".activities.SearchableActivity"
+            android:label="@string/title_activity_searchable" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".activities.NavigationDemoActivity"
+            android:label="@string/title_activity_navigation_demo" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".activities.DrawerNavigationActivity"
+            android:label="@string/title_activity_drawer_navigation" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".activities.InteractiveChartActivity"
+            android:label="@string/title_activity_interactive_chart" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <!-- <activity -->
+        <!-- android:name=".activities.VelocityTrackerActivity" -->
+        <!-- android:label="@string/hello_world" > -->
+        <!-- &lt;!&ndash;<intent-filter>&ndash;&gt; -->
+        <!-- &lt;!&ndash;<action android:name="android.intent.action.MAIN" />&ndash;&gt; -->
+
+
+        <!-- &lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt; -->
+        <!-- &lt;!&ndash;</intent-filter>&ndash;&gt; -->
+        <!-- </activity> -->
+        <activity
+            android:name=".activities.ActionModeActivity"
+            android:label="@string/hello_world" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".activities.PopUpMenu"
+            android:label="@string/title_activity_pop_up_menu" >
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name=".activities.DialogFragmentActivity"
+            android:label="@string/title_activity_dialog_fragment" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

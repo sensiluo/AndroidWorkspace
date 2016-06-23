@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+
+
+    <!-- Customize your theme here. -->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">#4876FF</item>
+        <item name="colorPrimaryDark">#3A5FCD</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:navigationBarColor">#4876FF</item>
+    </style>
+    <!-- light action bar -->
+    <style name="AppTheme.LightActionBar" parent="Theme.AppCompat.Light" />
+    <!-- custom button-->
+    <style name="CustomButton" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/gradient_shape</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWorkspace</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="display_text">hello world</string>
+    <string name="hello_world">Configuration Changes!</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancell">Cancell</string>
+</resources>

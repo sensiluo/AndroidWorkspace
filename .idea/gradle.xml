@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\Software Develop\Mobile\Native App\Android\IDE\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/interaction" />
+            <option value="$PROJECT_DIR$/navigation" />
+            <option value="$PROJECT_DIR$/network" />
+            <option value="$PROJECT_DIR$/peridev" />
+            <option value="$PROJECT_DIR$/persistence" />
+            <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/simplescreens" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
